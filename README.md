@@ -1,1 +1,1 @@
-<a href="https://wakatime.com/badge/user/6f9d9357-04e8-43a9-b82b-79a15ee09746/project/d7a292dc-f0aa-4c72-8f19-300f1ab3ed87"><img src="https://wakatime.com/badge/user/6f9d9357-04e8-43a9-b82b-79a15ee09746/project/d7a292dc-f0aa-4c72-8f19-300f1ab3ed87.svg" alt="wakatime"></a>
+LilithBot time wasted: <a href="https://wakatime.com/badge/user/6f9d9357-04e8-43a9-b82b-79a15ee09746/project/d7a292dc-f0aa-4c72-8f19-300f1ab3ed87"><img src="https://wakatime.com/badge/user/6f9d9357-04e8-43a9-b82b-79a15ee09746/project/d7a292dc-f0aa-4c72-8f19-300f1ab3ed87.svg" alt="wakatime"></a>
